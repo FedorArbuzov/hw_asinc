@@ -39,7 +39,7 @@ public class Main {
                 }
             }
         System.out.println("Вы ввели все данные");
-        // start work with threads
+        //start work with threads
     }
 }
 
