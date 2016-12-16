@@ -82,10 +82,10 @@ public class Serv_Class {
                 list_of_arrs[3] = input_str2int("Введите параметр t2");
             }
             while(list_of_arrs[4] < 0){
-                list_of_arrs[4] = input_str2int("Введите параметр t3");
+                list_of_arrs[4] = input_str2int("Введите параметр T1");
             }
             while(list_of_arrs[5] < 0){
-                list_of_arrs[5] = input_str2int("Введите параметр t4");
+                list_of_arrs[5] = input_str2int("Введите параметр T2");
             }
 
             list_of_arrs[6] = -1;

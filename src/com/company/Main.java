@@ -38,6 +38,10 @@ public class Main {
                     sc.input_func();
                 }
             }
+        System.out.println("Вы ввели все данные");
+        Farmer newFarmer = new Farmer();
+        Thread thr = new Thread(newFarmer);
+        thr.start();
 
     }
 }
