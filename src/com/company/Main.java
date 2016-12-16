@@ -39,9 +39,6 @@ public class Main {
                 }
             }
         System.out.println("Вы ввели все данные");
-        Farmer newFarmer = new Farmer();
-        Thread thr = new Thread(newFarmer);
-        thr.start();
 
     }
 }
